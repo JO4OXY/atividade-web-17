@@ -15,11 +15,11 @@
         "jsonwebtoken": "^9.0.2",
         "node.js": "^0.0.1-security",
         "nodemon": "^3.1.9",
-        "pg": "^8.13.3"
-        "scripts": {
-  "start": "node index.js",
+        "pg": "^8.13.3",
+        "scripts":, 
+        "start": "node index.js",
   "dev": "nodemon index.js"
-}
+
 
     },
     "type": "module"
